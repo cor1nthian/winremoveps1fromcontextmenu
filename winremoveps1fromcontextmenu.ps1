@@ -17,6 +17,7 @@
   
 #>
 
+############### SCRIPT ###############
 [System.String[]] $subKeys = @( 'Directory', 'Directory\Background', 'Drive' )
 
 foreach ($keyName in $subKeys) {
