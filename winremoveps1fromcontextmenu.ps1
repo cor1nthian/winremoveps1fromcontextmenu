@@ -12,7 +12,7 @@
   .OUTPUTS
   None
   
-  .PARAMETERS
+  .PARAMETER
   None
   
 #>
